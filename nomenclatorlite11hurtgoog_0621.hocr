@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nomenclatorlite11hurtgoog_0621.png"; bbox 0 0 3625 5193; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 548 1982 2809 2244">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 548 1982 2809 2244">
+     <span class='ocr_line' id='line_1_1' title="bbox 548 1982 2809 2133; baseline 0.002 -35"><span class='ocrx_word' id='word_1_1' title='bbox 548 1992 626 2100; x_wconf 87' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_2' title='bbox 703 1990 1142 2102; x_wconf 80' lang='lat' dir='ltr'>Tabulae</span> <span class='ocrx_word' id='word_1_3' title='bbox 1219 1982 1994 2127; x_wconf 73' lang='lat' dir='ltr'>chronologicae</span> <span class='ocrx_word' id='word_1_4' title='bbox 2070 1993 2809 2133; x_wconf 84' lang='lat' dir='ltr'>Theologorum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1416 2186 1949 2244; baseline 0.008 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1416 2186 1487 2240; x_wconf 63' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_6' title='bbox 1515 2203 1565 2241; x_wconf 64' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1593 2190 1949 2244; x_wconf 36' lang='lat' dir='ltr'>meai—*1663</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1113 2316 2255 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1113 2316 2255 2398">
+     <span class='ocr_line' id='line_1_3' title="bbox 1113 2316 2255 2398; baseline -0.002 -19"><span class='ocrx_word' id='word_1_8' title='bbox 1113 2318 1443 2380; x_wconf 79' lang='lat' dir='ltr'>seeundum</span> <span class='ocrx_word' id='word_1_9' title='bbox 1495 2316 1855 2397; x_wconf 77' lang='lat' dir='ltr'>diseipfinas</span> <span class='ocrx_word' id='word_1_10' title='bbox 1903 2316 2255 2398; x_wconf 80' lang='lat' dir='ltr'>dispositae.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 528 2844 2845 3096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 528 2844 2845 3096">
+     <span class='ocr_line' id='line_1_4' title="bbox 528 2844 2845 2983; baseline 0.002 -31"><span class='ocrx_word' id='word_1_11' title='bbox 528 2844 658 2952; x_wconf 92' lang='lat' dir='ltr'>II.</span> <span class='ocrx_word' id='word_1_12' title='bbox 736 2844 1175 2956; x_wconf 85' lang='lat' dir='ltr'>Tabulae</span> <span class='ocrx_word' id='word_1_13' title='bbox 1252 2845 2024 2980; x_wconf 77' lang='lat' dir='ltr'>chronologieae</span> <span class='ocrx_word' id='word_1_14' title='bbox 2099 2844 2845 2983; x_wconf 84' lang='lat' dir='ltr'>Theologorum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1416 3039 1952 3096; baseline 0.007 -5"><span class='ocrx_word' id='word_1_15' title='bbox 1416 3039 1952 3096; x_wconf 80' lang='lat' dir='ltr'>aba.1564—1663</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1162 3167 2225 3250">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1162 3167 2225 3250">
+     <span class='ocr_line' id='line_1_6' title="bbox 1162 3167 2225 3250; baseline 0.004 -21"><span class='ocrx_word' id='word_1_16' title='bbox 1162 3170 1495 3231; x_wconf 73' lang='lat' dir='ltr'>secundum</span> <span class='ocrx_word' id='word_1_17' title='bbox 1545 3167 1824 3234; x_wconf 82' lang='lat' dir='ltr'>nationes</span> <span class='ocrx_word' id='word_1_18' title='bbox 1874 3168 2225 3250; x_wconf 83' lang='lat' dir='ltr'>dispositae.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
